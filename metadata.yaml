@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42451
     wikipedia: http://en.wikipedia.org/wiki/John_Elliot_Drinkwater_Bethune
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43877#The-Life-of-Galileo-Galilei-with-Illustrations-of-the-Advancement-of-Experimental-PhilosophyL_
 gutenberg_issued: '2013-10-03'
 gutenberg_type: Text
 identifiers:
